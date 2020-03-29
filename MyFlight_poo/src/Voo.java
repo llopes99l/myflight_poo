@@ -38,6 +38,6 @@ public class Voo {
     }
 
     public String toString(){
-        return "Rota: " + rota + "n/ Status: " + status + "n/ Saída: " + datahora + "/n Duração: " + duracao;
+        return "Rota: " + rota + "\nStatus: " + status + "\nSaída: " + datahora + "\nDuração: " + duracao;
     }
 }

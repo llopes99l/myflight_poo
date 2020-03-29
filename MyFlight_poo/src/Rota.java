@@ -28,7 +28,7 @@ public class Rota {
     }
 
     public String toString(){
-        return "Companhia: " + cia + "/n Aeroporto de Origem: " + origem +
-                "n/ Aeroporto de Destino: " + destino + "n/ Aeromnave: " + aeronave;
+        return "Companhia: " + cia + "\nAeroporto de Origem: " + origem +
+                "\nAeroporto de Destino: " + destino + "\nAeromnave: " + aeronave;
     }
 }

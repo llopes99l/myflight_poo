@@ -16,6 +16,6 @@ public class CiaAerea {
     }
 
     public String toString(){
-        return "Código: " + codigo + "/n Nome: " + nome;
+        return codigo + " - " + nome;
     }
 }

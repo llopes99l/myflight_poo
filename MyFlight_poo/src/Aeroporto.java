@@ -22,7 +22,7 @@ public class Aeroporto {
     }
 
     public String toString(){
-        return "Código: " + codigo + "/n Nome: " + nome + "/n Localização: " + loc;
+        return codigo + " - " + nome + " - " + loc;
     }
 }
 
